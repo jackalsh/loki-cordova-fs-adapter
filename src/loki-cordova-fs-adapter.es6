@@ -144,5 +144,3 @@ class LokiCordovaFSAdapter {
     }
 }
 
-
-export default LokiCordovaFSAdapter;
